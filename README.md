@@ -7,4 +7,3 @@
 - ❤️ My Preferences: Reading, Gaming, Listening to Music.
 
 ## Languages Known and Used 📕
-<img src="./icons/Python-Dark.svg" width="48">
