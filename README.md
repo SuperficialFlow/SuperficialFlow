@@ -4,7 +4,7 @@
 
 ## About Me :bookmark_tabs:
 - 🥶 Currently learning web systems and technologies
-- 📖 How to reach me jangabrielrea2020@gmail.com
+- 📖 How to reach me: jangabrielrea2020@gmail.com
 - ❤️ My Preferences: Reading, Gaming, Listening to Music.
 
 ## Languages Known and Used 📕
@@ -12,9 +12,26 @@
 
 ## Git Commands Cheat Sheet 
 Referential documentation for commonly used Git and GitHub commands provided with descriptions and usage.
+
+- git clone <repository url> -> Typically used to clone a repository containing the files, branches, and commits.
 ```bash
-- git clone [repository url] -> Typically used to clone a repository containing the files, branches, and commits.
-- git push -> Updates a remote repository with the changes made from a local repository. 
+1. --branch, -b<branch> - Clones a default branch.
+2. --depth <depth> - Creates a shallow clone with a specified depth.
+3. --recursive - Clones submodules along with the repository.
+4. --single-branch - Clones only a single branch, reducing the size of the clone. Useful for large repositories.
+5. --mirror - Creates a bare mirror of the remote repository.
+6. --template <template-directory> - Specifies the directory from which templates will be used.
+```
+- git push <repository url> <branch name> -> Updates a remote repository with the changes made from a local repository. 
+```bash
+1. --all, -a - Pushes all branches to the remote repository.
+2. --force, -f - Force-pushes changes to the remote repository, overwriting its history.
+3. --tags - Pushes tags to the remote repository.
+4. --set-upstream, -u - Sets up tracking information so that future pushes can be done without specifying the remote and branch.
+5. --delete - Deletes a remote branch.
+6. --mirror - Mirrors all refs to the remote repository. This is often used for creating a backup.
+7. --dry-run - Simulates the push without actually sending data to the remote repository.
+```
 - git diff -> Views the changes or compares between the changes made. 
 - git init -> Initializes a local Git repository.
-- git add [file] ->  Places a modification from the working directory into the staging area, signaling to Git your intention to incorporate changes to a specific file.
+- git add <file> ->  Places a modification from the working directory into the staging area, signaling to Git your intention to incorporate changes to a specific file.
