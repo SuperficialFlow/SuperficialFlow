@@ -67,3 +67,22 @@ Options:
 4. -n, --dry-run - Shows what would be added without actually modifying the index.
 5. -v, --verbose - Be verbose; show the files being added.
 ```
+- git pull [options] [resporitory url] [branch] -> Fetches and merge changes from a remote repository into the local branch. 
+```bash
+a. git pull upstream main - Changes from a specific remote repository and branch.
+
+Options:
+1. --rebase - Incorporates the changes from the fetched branch by rebasing the current branch.
+2. --ff-only - Only allows fast-forward merges. If the remote history has diverged, the pull is aborted.
+3. --no-rebase - Disables automatic rebasing. Changes are merged using the default merge strategy.
+4. --all - Fetches updates from all remotes.
+5. --tags - Fetches tags from the remote repository.
+```
+- git status [options] -> Command in Git is used to display the status of changes as untracked, modified, or staged in your working directory. 
+```bash
+Options:
+1. -s, --short - Show the status in a short, compact format.
+2. -b, --branch - Show the branch information along with the status.
+3. -u, --untracked-files=<mode> - Show untracked files. The <mode> can be no (default), normal, or all.
+4. --ignored - Show ignored files as well.
+```
