@@ -10,10 +10,10 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ## Git Commands Cheat Sheet 
-Referential documentation for commonly used Git and Github commands provided with descriptions and usage.
+Referential documentation for commonly used Git and GitHub commands provided with descriptions and usage.
 ```bash
-- git clone [repository url] -> Typically used in order to clone a repository containing the files, branches and commits.
-- git push -> Updates a remote repository with the changes made from a local repository. Whereby it is accompanied by 'git commit' which saves those local changes.
+- git clone [repository url] -> Typically used to clone a repository containing the files, branches, and commits.
+- git push -> Updates a remote repository with the changes made from a local repository. 
 - git diff -> Views the changes or compares between the changes made. 
 - git init -> Initializes a local Git repository.
 - git add [file] ->  Places a modification from the working directory into the staging area, signaling to Git your intention to incorporate changes to a specific file.
