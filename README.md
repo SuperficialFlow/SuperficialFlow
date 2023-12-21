@@ -36,13 +36,14 @@ Options:
 ```
 - git diff [options] [commit | branch] [--] [path] -> Views the changes or compares between the changes made. 
 ```bash
+a. git init <commit1> <commit2> - This command shows the differences between two specific commits.
+b. git init <commit> - This command shows the differences between the working directory and a specific commit.
+c. git init <path/to/file> - This command shows the differences for a specific file or directory.
+
 Options:
 1. --staged - This command shows the differences between the staging area and the last commit.
-2. commit1 commit2 - This command shows the differences between two specific commits.
-3. commit - This command shows the differences between the working directory and a specific commit.
-4. path/to/file - This command shows the differences for a specific file or directory.
-5. -w - This command ignores whitespace changes when showing differences.
-6. --side-by-side - This command shows a side-by-side diff output.
+2. -w - This command ignores whitespace changes when showing differences.
+3. --side-by-side - This command shows a side-by-side diff output.
 
 ```
 - git init [options] [directory] -> Initializes a local Git repository.
