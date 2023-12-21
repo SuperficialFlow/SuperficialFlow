@@ -13,7 +13,7 @@
 ## Git Commands Cheat Sheet 
 Referential documentation for commonly used Git and GitHub commands provided with descriptions and usage.
 
-- git clone <options> <repository url> <directory> -> Typically used to clone a repository containing the files, branches, and commits.
+- git clone [options] [repository url] [directory] -> Typically used to clone a repository containing the files, branches, and commits.
 ```bash
 Options:
 1. --branch, -b<branch> - Clones a default branch.
@@ -23,7 +23,7 @@ Options:
 5. --mirror - Creates a bare mirror of the remote repository.
 6. --template <template-directory> - Specifies the directory from which templates will be used.
 ```
-- git push <options> <repository url> <branch name> -> Updates a remote repository with the changes made from a local repository. 
+- git push [options] [repository url] [branch name] -> Updates a remote repository with the changes made from a local repository. 
 ```bash
 Options:
 1. --all, -a - Pushes all branches to the remote repository.
@@ -34,32 +34,31 @@ Options:
 6. --mirror - Mirrors all refs to the remote repository. This is often used for creating a backup.
 7. --dry-run - Simulates the push without actually sending data to the remote repository.
 ```
-- git diff <options> <commit> <commit> -> Views the changes or compares between the changes made. 
+- git diff [options] [commit | branch] [--] [path] -> Views the changes or compares between the changes made. 
 ```bash
 Options:
-1. --staged - Shows the changes between the working directory and the staging area.
-2. --cached - Similar to --staged.
-3. --color - Adds color to the output for better readability.
-4. --name-only - Shows only the names of changed files.
-5. --name-status - Shows the names and status of changed files.
-6. --stat - Shows a condensed summary of changes. 
-7. --word-diff - Shows word-level differences.
-8. --word-diff-regex=<regex> - Uses the provided regular expression for word-level differences.
-9. --color-words - Highlights changed words.
-10. <commit1> <commit2> - Shows the differences between two specific commits.
+1. --staged - This command shows the differences between the staging area and the last commit.
+2. commit1 commit2 - This command shows the differences between two specific commits.
+3. commit - This command shows the differences between the working directory and a specific commit.
+4. path/to/file - This command shows the differences for a specific file or directory.
+5. -w - This command ignores whitespace changes when showing differences.
+6. --side-by-side - This command shows a side-by-side diff output.
+
 ```
-- git init <options> <directory> -> Initializes a local Git repository.
+- git init [options] [directory] -> Initializes a local Git repository.
 ```bash
 a. git init - This initializes a Git repository in the current working directory.
 b. git init <directory> - This initializes a Git repository in the specified directory.
+
 Options:
-1. --bare - Creates a bare repository (does not contain a working directory). Bare repositories are typically used as central repositories.
+1. --bare - Creates a bare repository. Bare repositories are typically used as central repositories.
 2. --template=<template-directory> - Specifies the directory from which templates will be used.
 3. --initial-branch=<branch-name> - Sets the name of the initial branch. Useful if you want to start with a branch name other than the default master.
 ```
-- git add <options> <pathspec> ->  Places a modification from the working directory into the staging area, signaling to Git your intention to incorporate changes to a specific file.
+- git add [options] [pathspec] ->  Places a modification from the working directory into the staging area, signaling to Git your intention to incorporate changes to a specific file.
 ```bash
 Pathspec - capable of adding changes to either a specific file or directory.
+
 Options:
 1. -A, --all - Adds all changes, including untracked files and removing files that are no longer present.
 2. -u, --update - Adds modified or deleted files but not untracked files.
