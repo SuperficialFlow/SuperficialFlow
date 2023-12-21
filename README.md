@@ -7,4 +7,3 @@
 - ❤️ My Preferences: Reading, Gaming, Listening to Music.
 
 ## Languanges Known and Used 📕
-:
