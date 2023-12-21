@@ -1,5 +1,3 @@
-![ME](https://github.com/SuperficialFlow/SuperficialFlow/assets/154480145/8c748af0-702a-48db-a799-fc082acfa729)
-
 <h1 align="center">Hello, I'm Jan Gabriel Rea :smile:</h1>
 <h3 align="center">Ready to start delving into creating websites</h3>
 
