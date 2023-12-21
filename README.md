@@ -58,7 +58,7 @@ Options:
 ```
 - git add [options] [pathspec] ->  Places a modification from the working directory into the staging area, signaling to Git your intention to incorporate changes to a specific file.
 ```bash
-Pathspec - capable of adding changes to either a specific file or directory.
+Pathspec - capable of adding changes to either a specific <file> or <directory>.
 
 Options:
 1. -A, --all - Adds all changes, including untracked files and removing files that are no longer present.
