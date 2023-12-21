@@ -8,3 +8,12 @@
 
 ## Languages Known and Used 📕
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+## Git Commands Cheat Sheet 
+- git clone [repository url] -> Typically used in order to clone a repository containing the files, branches and commits.
+    Example: git clone https://github.com/SuperficialFlow/SuperficialFlow.git
+- git push -> Updates a remote repository with the changes made from a local repository. Whereby it is accompanied by 'git commit' which saves those local changes.
+    Example: 
+- git diff -> Views the changes or compares between the changes made. 
+- git init -> Initializes a local Git repository.
+- git add [file] ->  Places a modification from the working directory into the staging area, signaling to Git your intention to incorporate changes to a specific file.
