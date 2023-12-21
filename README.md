@@ -6,4 +6,5 @@
 - 📖 How to reach me jangabrielrea2020@gmail.com
 - ❤️ My Preferences: Reading, Gaming, Listening to Music.
 
-## Languanges Known and Used 📕
+## Languages Known and Used 📕
+<img src="./icons/Python-Dark.svg" width="48">
