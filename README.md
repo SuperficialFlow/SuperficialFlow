@@ -88,19 +88,33 @@ Options:
 ```
 # Examples:
 1. git clone:
+   
 ![Exe 1](https://github.com/SuperficialFlow/SuperficialFlow/assets/154480145/ebea4de2-ff3e-42b5-9cb4-4635a48d2574)
+
 2. git push:
+   
 ![Exe 2](https://github.com/SuperficialFlow/SuperficialFlow/assets/154480145/3f84560c-044b-43b5-959c-25e4ac56ed70)
+
 3. git diff:
+   
 ![Exe 3](https://github.com/SuperficialFlow/SuperficialFlow/assets/154480145/f9101489-799c-48ab-a85c-622a70be7b06)
+
 4. git init:
+ 
 ![Exe 4](https://github.com/SuperficialFlow/SuperficialFlow/assets/154480145/87d28f84-aacc-4974-a76c-af23797babdf)
+
 5. git add:
+   
 ![Exe 5](https://github.com/SuperficialFlow/SuperficialFlow/assets/154480145/318362ab-a537-4ec4-b482-fe9402c18936)
+
 6. git pull:
+
 ![Exe 6](https://github.com/SuperficialFlow/SuperficialFlow/assets/154480145/b491f78d-9b34-47c4-b8c6-bc66e4412555)
+
 7. git status:
+   
 ![Exe 7](https://github.com/SuperficialFlow/SuperficialFlow/assets/154480145/8ff6570e-8637-4b9b-a488-22777776bf99)
+
 
 
 
