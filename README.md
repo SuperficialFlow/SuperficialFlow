@@ -1,5 +1,5 @@
 ![ME (1)](https://github.com/SuperficialFlow/SuperficialFlow/assets/154480145/555c6a63-70be-4ad3-a661-8bd76ad0b5d6)
-<h1 align="center">Hello, I'm Jan Gabriel Rea 🗿</h1>
+<h1 align="center">Hi!, I'm Jan Gabriel </h1>
 <h3 align="center">Student of Malayan Colleges of Laguna. Ready to start delving into creating websites</h3>
 
 ## About Me :bookmark_tabs:
