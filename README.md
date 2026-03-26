@@ -1,4 +1,4 @@
-# Hi, I'm Jan 👋
+# Hi, I'm Jan ☕
 > Pursuing a career as a Software Developer or Network Administrator
 
 About me: I'm a full-stack web developer studying in Mapúa Malayan Colleges Laguna. I like to design minimal web applications with a focus on back-end architecture and intuitive front-end experiences. I also bring experience in **database management** and a foundational understanding of **cybersecurity & ethical hacking**.
