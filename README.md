@@ -7,9 +7,9 @@ About me: I'm a full-stack web developer studying in Mapúa Malayan Colleges Lag
 
 ### Tech Stack
 
-- Languages: AssemblyScript, C, C++, C#, Kotlin, Python, JavaScript, TypeScript  
-- Frontend & Design: HTML5, CSS3, React, Mantine, Figma, Photoshop  
-- Backend & Cloud: Oracle, MySQL, Firebase, Supabase, Vercel  
+- Programming Languages: Assembly, C, C++, C#, Kotlin, Python, HTML, CSS, JavaScript, TypeScript
+- Frameworks & Technologies: React, ASP.NET, SQL, Supabase, Firebase
+- Tools & Platforms: Figma, Git, Vercel, Netlify, Kali Linux, Cisco Packet Tracer, VMware/VirtualBox
 
 ### Socials
 
