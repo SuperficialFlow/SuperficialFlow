@@ -13,7 +13,7 @@ About me: I'm a full-stack web developer studying in Mapúa Malayan Colleges Lag
 
 ### Socials
 
-- Portfolio: [https://jgtr-portfolio.netlify.app/](https://jgtrea-site.vercel.app/)
+- Portfolio: https://jgtrea-site.vercel.app/
 - Email: jangabriel.formal@gmail.com
 - Linkedin: https://www.linkedin.com/in/jan-rea-b566b1344/
 
