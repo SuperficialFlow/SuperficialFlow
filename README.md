@@ -21,6 +21,6 @@ About me: I'm a full-stack web developer studying in Mapúa Malayan Colleges Lag
 ### Stats
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=SuperficialFlow&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=jgtrea&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </p>
 
